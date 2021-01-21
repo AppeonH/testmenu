@@ -1,0 +1,14 @@
+﻿$PBExportHeader$test1.srj
+EXE:..\..\..\AppData\Local\Temp\pbappscache\temp\test2\test2.exe,,0,0,1,1,
+CMP:0,0,0,2,0,0,1
+COM:
+DES:
+CPY:
+PRD:
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+POWERCLIENT:{"test1":{"Format":"1.0","AppName":"test2","OutputDir":"C:\\Users\\appeon\\AppData\\Local\\Temp\\pbappscache\\temp\\test2","ResourceName":"","Arguments":"","DeployVersion":"1.01","MinimumValidVersion":"1.01","OnlineTime":"2020-12-29 02:37:41","OfflineTime":"2030-12-29 02:37:41","PromptOverwrite":false,"WindowsClassicStyle":false,"FullBuild":false,"EnableDebugSymbol":true,"EncryptPbdFiles":true,"Is32Bit":true,"CheckLauncherValid":false,"LocalServer":false,"ServerProfile":"ftp","FullDownload":false,"DeployWebPage":0,"CreateDesktopShortcut":true,"CreateStartMenuShortcut":true,"ShowStartAnimatedWindow":true,"CheckPbdValidaty":false,"StartMode":0,"IsVerOffCheck":false,"PBCParams":"","RuntimeVersion":"19.2.0.2620","PreloadEventCommands":"","RunCommandAsAdmin":false,"AlwaysRunCommand":false,"ProductName":"","CompanyName":"","Description":"","Copyright":"","ProductVersion":"1.0.0.1","FileVersion":"1.0.0.1","ProductVersionMajor":1,"ProductVersionMinor":0,"ProductVersionBuild":0,"ProductVersionRevision":1,"FileVersionMajor":1,"FileVersionMinor":0,"FileVersionBuild":0,"FileVersionRevision":1,"GenerateOption":2,"ExecutionLevel":2,"AllowAccessSystemUI":false,"RunWithHttps":false,"RunWithShellApp":true,"RunArguments":"","RunHost":"172.16.7.33","RunPort":"","AppStartupMethod":0,"Libraries":[{"PbdName":"test1.pbd","PbdLocalPath":"C:\\Users\\appeon\\Desktop\\testzip\\testa\\test1.pbd"}],"PredownloadPackages":{},"PredownloadFiles":[],"InstantDownloadFiles":[],"RuntimeModules":["Core Runtime Files"],"RegisterFiles":[],"Signing":{"SignOption":1,"CustomScript":"","SignTool":"","PfxFile":"","PfxPassword":"","Algorithm":"SHA256","TimeStamp":"http://timestamp.digicert.com"},"IniConfigFiles":[]}}
+PBD:test1.pbl,,1
