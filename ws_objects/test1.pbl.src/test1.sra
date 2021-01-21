@@ -18,6 +18,7 @@ boolean nativepdfvalid = false
 boolean nativepdfincludecustomfont = false
 string nativepdfappname = ""
 long richtextedittype = 2
+long richtexteditx64type = 3
 long richtexteditversion = 1
 string richtexteditkey = ""
 string appicon = ""
